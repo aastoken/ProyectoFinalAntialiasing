@@ -1,0 +1,209 @@
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\Demo1.exe.config
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\obj\Debug\Demo1.exe
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\obj\Debug\Demo1.pdb
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\Shaders\MainPS.hlsl
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\Shaders\MainShared.hlsl
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\Shaders\MainVS.hlsl
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\x64\d3dcompiler_47.dll
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\x86\d3dcompiler_47.dll
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\Demo1.exe
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\Demo1.pdb
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.Desktop.dll
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.dll
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.DXGI.dll
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.xml
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.Desktop.xml
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.DXGI.xml
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\obj\Debug\Demo4.csprojResolveAssemblyReference.cache
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\Shaders\PostEffectPS.hlsl
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\Shaders\PostEffectVS.hlsl
+C:\Users\jjimenez\Desktop\USJ\Demo4\Demo4\bin\Debug\Shaders\PostEffectShared.hlsl
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\Demo1.exe.config
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\obj\Debug\Demo1.exe
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\obj\Debug\Demo1.pdb
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\Shaders\MainPS.hlsl
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\Shaders\MainShared.hlsl
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\Shaders\MainVS.hlsl
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\Shaders\PostEffectPS.hlsl
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\Shaders\PostEffectShared.hlsl
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\Shaders\PostEffectVS.hlsl
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\x64\d3dcompiler_47.dll
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\x86\d3dcompiler_47.dll
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\Demo1.exe
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\Demo1.pdb
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Desktop.dll
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.dll
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.DXGI.dll
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.xml
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Desktop.xml
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.DXGI.xml
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\jjimenez\Desktop\USJ\Final Project\Demo4\Demo4\obj\Debug\Demo4.csprojResolveAssemblyReference.cache
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\Demo1.exe.config
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\obj\Debug\Demo1.exe
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\obj\Debug\Demo1.pdb
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\Shaders\MainPS.hlsl
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\Shaders\MainShared.hlsl
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\Shaders\MainVS.hlsl
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\Shaders\PostEffectPS.hlsl
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\Shaders\PostEffectShared.hlsl
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\Shaders\PostEffectVS.hlsl
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\x64\d3dcompiler_47.dll
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\x86\d3dcompiler_47.dll
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\Demo1.exe
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\Demo1.pdb
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.dll
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Desktop.dll
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.dll
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.dll
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.dll
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.DXGI.dll
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.dll
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.xml
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.xml
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Desktop.xml
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.xml
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.xml
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.DXGI.xml
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.xml
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\obj\Debug\Demo4.csprojResolveAssemblyReference.cache
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Final Project\Demo4\Demo4\bin\Debug\Demo1.exe.config
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Final Project\Demo4\Demo4\obj\Debug\Demo1.exe
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Final Project\Demo4\Demo4\obj\Debug\Demo1.pdb
+E:\OneDrive\Work\Universidad de San Jorge\Final Project\Demo4\Demo4\bin\Debug\Shaders\Utils.hlsl
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\Shaders\MainPS.hlsl
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\Shaders\MainShared.hlsl
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\Shaders\MainVS.hlsl
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\Shaders\PostEffectPS.hlsl
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\Shaders\PostEffectShared.hlsl
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\Shaders\PostEffectVS.hlsl
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\Shaders\Utils.hlsl
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\x64\d3dcompiler_47.dll
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\x86\d3dcompiler_47.dll
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\Demo1.exe.config
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\Demo1.exe
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\Demo1.pdb
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.Desktop.dll
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.dll
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.DXGI.dll
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.xml
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.Desktop.xml
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.DXGI.xml
+C:\Users\jjimenez\Desktop\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\jjimenez\Desktop\Demo4\Demo4\obj\Debug\Demo4.csprojResolveAssemblyReference.cache
+C:\Users\jjimenez\Desktop\Demo4\Demo4\obj\Debug\Demo1.exe
+C:\Users\jjimenez\Desktop\Demo4\Demo4\obj\Debug\Demo1.pdb
+E:\Material\Demo4\Demo4\bin\Debug\Demo1.exe.config
+E:\Material\Demo4\Demo4\obj\Debug\Demo1.exe
+E:\Material\Demo4\Demo4\obj\Debug\Demo1.pdb
+E:\Material\Demo4\Demo4\bin\Debug\Shaders\MainPS.hlsl
+E:\Material\Demo4\Demo4\bin\Debug\Shaders\MainShared.hlsl
+E:\Material\Demo4\Demo4\bin\Debug\Shaders\MainVS.hlsl
+E:\Material\Demo4\Demo4\bin\Debug\Shaders\PostEffectPS.hlsl
+E:\Material\Demo4\Demo4\bin\Debug\Shaders\PostEffectShared.hlsl
+E:\Material\Demo4\Demo4\bin\Debug\Shaders\PostEffectVS.hlsl
+E:\Material\Demo4\Demo4\bin\Debug\Shaders\Utils.hlsl
+E:\Material\Demo4\Demo4\bin\Debug\x64\d3dcompiler_47.dll
+E:\Material\Demo4\Demo4\bin\Debug\x86\d3dcompiler_47.dll
+E:\Material\Demo4\Demo4\bin\Debug\Demo1.exe
+E:\Material\Demo4\Demo4\bin\Debug\Demo1.pdb
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.dll
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.Desktop.dll
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.dll
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.dll
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.dll
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.DXGI.dll
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.dll
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.xml
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.xml
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.Desktop.xml
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.xml
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.xml
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.DXGI.xml
+E:\Material\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.xml
+E:\Material\Demo4\Demo4\obj\Debug\Demo4.csprojResolveAssemblyReference.cache
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\Shaders\MainPS.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\Shaders\MainShared.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\Shaders\MainVS.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\Shaders\PostEffectPS.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\Shaders\PostEffectShared.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\Shaders\PostEffectVS.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\Shaders\Utils.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\x64\d3dcompiler_47.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\x86\d3dcompiler_47.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\Demo1.exe.config
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\Demo1.exe
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\Demo1.pdb
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.Desktop.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.DXGI.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.Desktop.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.DXGI.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\obj\Debug\Demo4.csprojAssemblyReference.cache
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\obj\Debug\Demo4.csproj.CoreCompileInputs.cache
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\obj\Debug\Demo4.csproj.CopyComplete
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\obj\Debug\Demo1.exe
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Material\Demo4\Demo4\obj\Debug\Demo1.pdb
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\Shaders\MainPS.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\Shaders\MainShared.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\Shaders\MainVS.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\Shaders\PostEffectPS.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\Shaders\PostEffectShared.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\Shaders\PostEffectVS.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\Shaders\Utils.hlsl
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\x64\d3dcompiler_47.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\x86\d3dcompiler_47.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\Demo1.exe.config
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\Demo1.exe
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\Demo1.pdb
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.Desktop.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.DXGI.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.dll
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.D3DCompiler.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.Desktop.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.Direct2D1.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.Direct3D11.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.DXGI.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\SharpDX.Mathematics.xml
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\obj\Debug\Demo4.csprojAssemblyReference.cache
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\obj\Debug\Demo4.csproj.CoreCompileInputs.cache
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\obj\Debug\Demo4.csproj.CopyComplete
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\obj\Debug\Demo1.exe
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\obj\Debug\Demo1.pdb
+D:\Documentos\_Uni\4\Programacion en tiempo real\RTG\Trabajo Final Antialiasing\Demo4\Demo4\bin\Debug\Shaders\Fxaa3_11.hlsli
